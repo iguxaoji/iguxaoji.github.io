@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iguxaoji.github.io/VvP/sitemap_index.txt
+Sitemap: https://iguxaoji.github.io/dmA/sitemap_index.txt
+Sitemap: https://iguxaoji.github.io/eBi/sitemap_index.txt
+Sitemap: https://iguxaoji.github.io/mRY/sitemap_index.txt
